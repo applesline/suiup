@@ -22,7 +22,7 @@ Check out the [Quick Start](#quick-start) guide for how-to-use examples.
 
 ### From Script
 ```bash
-curl -sSfL https://raw.githubusercontent.com/Mystenlabs/suiup/main/install.sh | sh
+curl -sSfL https://raw.githubusercontent.com/Mystenlabs/suiup/main/install.sh | bash
 ```
 
 ### From Cargo
